@@ -1,3 +1,8 @@
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+
 ```
 import java.math.BigInteger;
 import java.util.Random;
